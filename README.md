@@ -59,8 +59,8 @@ A feature-rich, responsive web-based IPTV player with support for modern streami
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iptv-player.git
-cd iptv-player
+git clone https://github.com/bugsfreeweb/bugsfreetv.git
+cd bugsfreetv
 ```
 
 2. Open in a web server:
